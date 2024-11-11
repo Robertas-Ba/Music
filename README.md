@@ -1,12 +1,12 @@
-# Project Title
+# Music
 
 Include for each contributer:
 
-Name:
+Name: Robertas Baranauskas
 
-Student Number: 
+Student Number: C24736925
 
-Class Group:
+Class Group: 
 
 Github: 
 
