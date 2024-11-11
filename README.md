@@ -1,13 +1,7 @@
 # Music
 
-Include for each contributer:
-
 Name: Robertas Baranauskas
-
 Student Number: C24736925
-
-Class Group: 
-
 Github: Robertas-Ba
 
 # Video
