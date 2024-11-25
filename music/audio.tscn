@@ -1,0 +1,62 @@
+[gd_scene load_steps=4 format=3 uid="uid://s8keg1kyi1jy"]
+
+[ext_resource type="Script" path="res://audio.gd" id="1_47g8d"]
+[ext_resource type="AudioStream" uid="uid://cotcjqn6njvqi" path="res://Spazzmatica-Polka(chosic.com).mp3" id="2_2vbvw"]
+[ext_resource type="Script" path="res://Looper.gd" id="3_mm23v"]
+
+[node name="Audio" type="Node2D"]
+position = Vector2(259, 126)
+script = ExtResource("1_47g8d")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("2_2vbvw")
+
+[node name="Button" type="Button" parent="."]
+offset_right = 8.0
+offset_bottom = 8.0
+text = "Play"
+metadata/_edit_use_anchors_ = true
+
+[node name="HSlider" type="HSlider" parent="."]
+offset_left = -114.0
+offset_top = 43.0
+offset_right = 159.0
+offset_bottom = 107.0
+
+[node name="HSlider2" type="HSlider" parent="."]
+offset_left = -115.0
+offset_top = 94.0
+offset_right = 157.0
+offset_bottom = 183.0
+
+[node name="Looper" type="Node2D" parent="."]
+position = Vector2(-115, 94)
+script = ExtResource("3_mm23v")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="Looper"]
+
+[node name="Timer" type="Timer" parent="Looper"]
+
+[node name="Button2" type="Button" parent="."]
+offset_left = 198.0
+offset_top = -21.0
+offset_right = 332.0
+offset_bottom = 28.0
+text = "loop
+"
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+
+[node name="ColorRect" type="ColorRect" parent="Area2D"]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[connection signal="button_down" from="Button" to="." method="_on_button_button_down"]
+[connection signal="drag_ended" from="HSlider" to="." method="_on_h_slider_drag_ended"]
+[connection signal="drag_started" from="HSlider" to="." method="_on_h_slider_drag_started"]
+[connection signal="value_changed" from="HSlider" to="." method="_on_h_slider_value_changed"]
+[connection signal="value_changed" from="HSlider2" to="." method="_on_h_slider_2_value_changed"]
+[connection signal="timeout" from="Looper/Timer" to="Looper" method="_on_timer_timeout"]
+[connection signal="mouse_entered" from="Area2D" to="Looper" method="_on_area_2d_mouse_entered"]
