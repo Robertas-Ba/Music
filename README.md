@@ -8,7 +8,7 @@ Github: Robertas-Ba
 
 # Video
 
-[![YouTube](https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-1200-80.jpg)](https://www.youtube.com/watch?v=rhIwXxcb_-E)
+[![YouTube](https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-1200-80.jpg)](https://youtu.be/4_znaMbcrC0)
 
 # Screenshots
 
