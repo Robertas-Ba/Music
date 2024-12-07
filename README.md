@@ -13,7 +13,7 @@ Github: Robertas-Ba
 # Screenshots
 
 # Description of the project
-
+its a Music Visulizer with a few preset songs and sliders to change the pitch and phaser
 # Instructions for use
 
 # How it works:
