@@ -15,7 +15,7 @@ Github: Robertas-Ba
 # Description of the project
 its a Music Visulizer with a few preset songs and sliders to change the pitch and phaser
 # Instructions for use
-
+its pretty simple the visulizer is aautomatic all you have to do is to choose a song under the selcet music text and and to the left are sliders that change the pitch and pahser 
 # How it works:
 
 # List of classes/assets in the project
