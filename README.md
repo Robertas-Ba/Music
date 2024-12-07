@@ -27,8 +27,8 @@ its pretty simple the visulizer is aautomatic all you have to do is to choose a 
 | MyClass2.cs | From [reference]() |
 
 # References
-* Item 1
-* Item 2
+* Skooter500
+* (https://docs.godotengine.org/en/stable/index.html)
 
 # What I am most proud of in the assignment
 
