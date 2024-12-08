@@ -34,7 +34,7 @@ click song use slider change pitch and phaser
 * (https://docs.godotengine.org/en/stable/index.html)
 
 # What I am most proud of in the assignment
-Music visulizer
+the Music visulizer part
 
 # What I learned
 i learned more on how to use godot and i am more confident in my skills
