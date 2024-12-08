@@ -11,7 +11,8 @@ Github: Robertas-Ba
 [![YouTube](https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-1200-80.jpg)](https://youtu.be/4_znaMbcrC0)
 
 # Screenshots
-<img height="539" width="960" alt="May be a graphic of text" class="x1ey2m1c xds687c x5yr21d x10l6tqk x17qophe x13vifvy xh8yej3 xl1xv1r" referrerpolicy="origin-when-cross-origin" src="https://scontent.fdub6-1.fna.fbcdn.net/v/t39.30808-6/469555157_340895…OjD5Dcl_L&oh=00_AYBuWRerywBwNIpYf6otYolbxNgsYpiWQJqoey8V-A8avg&oe=675BB0E3">
+<img height="539" width="960" src="https://scontent.fdub6-1.fna.fbcdn.net/v/t39.30808-6/469555157_340895…OjD5Dcl_L&oh=00_AYBuWRerywBwNIpYf6otYolbxNgsYpiWQJqoey8V-A8avg&oe=675BB0E3">
+
 # Description of the project
 its a Music Visulizer with a few preset songs and sliders to change the pitch and phaser
 # Instructions for use
