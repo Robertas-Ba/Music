@@ -11,7 +11,7 @@ Github: Robertas-Ba
 [![YouTube](https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-1200-80.jpg)](https://youtu.be/4_znaMbcrC0)
 
 # Screenshots
-<img height="539" width="960" src="[https://scontent.fdub6-1.fna.fbcdn.net/v/t39.30808-6/469555157_3408955069412288_7873981186793522831_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CrS8yhtht_kQ7kNvgHd2qFc&_nc_zt=23&_nc_ht=scontent.fdub6-1.fna&_nc_gid=AjzYOsEl-3jJgsOjD5Dcl_L&oh=00_AYBuWRerywBwNIpYf6otYolbxNgsYpiWQJqoey8V-A8avg&oe=675BB0E3)">
+<img height="539" width="960" src="[https://scontent.fdub6-1.fna.fbcdn.net/v/t39.30808-6/469555157_3408955069412288_7873981186793522831_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CrS8yhtht_kQ7kNvgHd2qFc&_nc_zt=23&_nc_ht=scontent.fdub6-1.fna&_nc_gid=AjzYOsEl-3jJgsOjD5Dcl_L&oh=00_AYBuWRerywBwNIpYf6otYolbxNgsYpiWQJqoey8V-A8avg&oe=675BB0E3">
 
 # Description of the project
 its a Music Visulizer with a few preset songs and sliders to change the pitch and phaser
