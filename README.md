@@ -21,7 +21,7 @@ its a Music Visulizer with a few preset songs and sliders to change the pitch an
 # Instructions for use
 its pretty simple the visulizer is aautomatic all you have to do is to choose a song under the selcet music text and and to the left are sliders that change the pitch and pahser 
 # How it works:
-click song use slider change pitch and phaser apart of code listening for sound another part waiting for button to be presses abd also another waiting for sliders value to change 
+click song use slider change pitch and phaser apart of code listening for sound another part waiting for button to be pressed and also another waiting for sliders value to change 
 
 # List of classes/assets in the project
 
